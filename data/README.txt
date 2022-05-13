@@ -1,0 +1,1 @@
+Raw data files for “Red light, purple light! Results of an intervention to promote school readiness for children from low-income backgrounds” in Frontiers in Psychology (2019) are not publicly available due to IRB privacy restrictions. See output files and figures solutions to the code files. 
